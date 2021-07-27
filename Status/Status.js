@@ -1,5 +1,11 @@
-function checkStatus(){
+import React from 'react'
 
-console.log("love it")
-
+function Status() {
+    return (
+        <div>
+         <h1>UP!</h1>   
+        </div>
+    )
 }
+
+export default Status
